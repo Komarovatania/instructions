@@ -414,12 +414,6 @@ Markdown позволяет также использовать неявно в�
 
 >![image alt text](https://i.redd.it/icdv9tg5eyt61.jpg)
 
-**Чтобы добавить видео:**
-
-<video width="320" height= "240" controls> <source scr="https://www.youtube.com/embed/-mUJnKI3ipI" type="video/mp4"></video>
-
-> <iframe width="320" height="240" src="https://www.youtube.com/embed/-mUJnKI3ipI" frameborder="0" allowfullscreen></iframe>
-
 ## Интересные команды, которые есть в GIT
 
 
