@@ -52,8 +52,7 @@
 16. Чтобы создать новую ветку:
 > git branch <название ветки> 
 
-17. Чтобы удалить ветку:
-> git branch -d <имя ветки> *терминал спросит, можно ли смержить ветку?*  
+17. Чтобы удалить ветку:  
 > git branch -D <имя ветки> *удаляет без проверки на мерж ветку*
 
 18. Чтобы переименовать ветку:
@@ -609,4 +608,3 @@ concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.  
 
 See 'git help git' for an overview of the system.
->>>>>>> other
